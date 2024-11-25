@@ -1,3 +1,3 @@
 fun main() {
-    println("Esta es la versión 2")
+    println("Esta es la versión de la Feature")
 }
